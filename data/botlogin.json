@@ -1,0 +1,14 @@
+{
+    "discord": {
+        "token": "ODExMTkzMDgzMDkzMzE5NzEw.YCuobg.Kedmet7stRTC4fqBSuemTcHyHxk"
+    },
+    "db": {
+        "type": "mysql",
+        "config": {
+            "host": "14.235.126.51",
+            "username": "btebot",
+            "password": "CookieGMVN",
+            "database": "btedb"
+        }
+    }
+}
